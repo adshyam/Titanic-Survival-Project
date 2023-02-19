@@ -7,7 +7,7 @@ Dataset:
 
 The dataset used in this project is the Titanic dataset, which contains information about the passengers. The dataset has 891 rows and 12 columns. The 
 columns include information such as age, sex, passenger class, and whether the passenger survived or not.
-Here is alink of dataset used : https://raw.githubusercontent.com/SowjanyaPatnaik/Data-Science-notes/main/train.csv
+Here is a link of dataset used : https://raw.githubusercontent.com/SowjanyaPatnaik/Data-Science-notes/main/train.csv
 
 
 Data Preprocessing:
